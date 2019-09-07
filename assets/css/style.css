@@ -1,0 +1,85 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("../images/white-slate-background-or-texture.jpg")
+
+    
+}
+
+.navbar {
+    font-size: xx-large;
+    text-align: center;
+
+}
+
+.div1 {
+    text-align: center;
+    align-content: center;
+    padding-top: 10px;
+    height: 25%;
+  
+}
+
+.div2 {
+    text-align: center;
+    background: burlywood;
+    opacity: .5;
+    width: 80%;
+    height: 40%;
+    margin: auto;
+    padding: auto;
+}
+
+.Projects {
+    text-align: center;
+    background: lightgray;
+    width: 80%;
+    height: 5%;
+    margin: auto;
+    padding: auto;
+}
+
+.GitHub{
+    text-align: center;
+    background: lightgray;
+    width: 80%;
+    height: 5%;
+    margin: auto;
+    padding: auto;
+}
+
+.LinkedIn {
+    text-align: center;
+    background: lightgray;
+    width: 80%;
+    height: 5%;
+    margin: auto;
+    padding: auto;
+}
+
+.ContactInfo {
+    text-align: center;
+    background: lightgray;
+    width: 80%;
+    height: 5%;
+    margin: auto;
+    padding: auto;
+}
+
+
+.footer {
+    text-align: center;
+    background: pink;
+    opacity: .5;
+}
+
+
+img {
+    border-radius: 50%;
+    width: 175;
+    height: 200;
+
+}
